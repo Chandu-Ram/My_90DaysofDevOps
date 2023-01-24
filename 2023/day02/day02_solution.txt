@@ -1,0 +1,16 @@
+
+What is the linux command to
+
+Check your present working directory 
+
+Ans: pwd
+
+List all the files or directories including hidden files 
+
+Ans: ls -a or ls -la or ll
+
+Create a nested directory A/B/C/D/E
+
+Ans: mkdir -p A/B/C/D/E/
+
+
