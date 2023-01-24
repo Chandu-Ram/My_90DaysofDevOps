@@ -1,0 +1,36 @@
+Day1:
+
+What is Devops?
+
+Devops is a Software Development lifecycle process where the development and operations work together in sync compared to the previous SDLC processes like Agile and Waterfall models and deliver products continuously and faster with minimal issues.
+
+It comprises 2 phases: Continuous Integration and Continuous Delivery.
+
+Continuous Integrations consists of phases like Planning, Code, Build and Test
+Continuous Delivery consists of phases like Deployment, Release and Monitoring.
+ 
+Starting with Planning and then till the end where monitoring is done post release, all these phases happen continuously in a loop.
+
+Automation:
+
+It is the process where the technology and tools are configured in such a way that an activity is performed with minimal human interference.
+
+Automation helps in reducing human efforts and saves a lot of time.
+
+Scaling:
+
+It is the process of increasing or decreasing the resources based on the amount of effort actually needed to perform an activity. If the activity needs more resources then they are increased and vice versa.
+
+Scaling helps in maintaining the efforts of individual resources not to reach above a threshold value. Ex: AWS Auto Scaling system where EC2 instances are added or freed  depending on the incoming requests
+
+Infrastructure:
+
+Infrastructure is the basic facility or system needed to support an organization to carry out  its activities.
+
+
+
+
+Why is Devops Important?
+
+As the technology is growing faster, there is a need for the end product to be delivered to the client within minimum time and without any issues. Devops helps in getting these things done through its tools and strategies. With the help of Devops, we’re minimizing the gap b/w the Development team and Operations team where we are avoiding the risk throughout the SDLC. Also because of its automation process, there’s minimal human effort needed and things are done real fast compared to the normal manual process. Also using its Infrastructure as code ideology, we can re-use a particular process in order to provision any resource. Majority of these advantages are missing in Agile and other SDLC processes, hence DevOps is so important in the current market scenario.
+
